@@ -74,14 +74,12 @@ https://gdcatalog.go.th/dataset/gdpublish-dataoae1104
 2 รายงานสถานการณ์น้ำประเทศไทย ปี 2565 :
 https://www.thaiwater.net/uploads/contents/current/YearlyReport2022/rain2.html
 
-> ข้อมูล ณ วันที่ 30 มี.ค. 2568
-
 ## miniProjectDADS5001
 
 DADS5001: Data Analytics and Data Science Tools and Programming
 
 จัดทำโดย
 
-- 6710422011 นายณัฐวัฒน์ สวัสดีนฤนาท
-- 6710422027 นางสาวชลดา ทับเจริญ
-- 6710422031 นายนันทวัฒน์ ทศรฐ
+- [6710422011 นายณัฐวัฒน์ สวัสดีนฤนาท](https://github.com/Natthawat-saw)
+- [6710422027 นางสาวชลดา ทับเจริญ](https://github.com/Chollada-Grape)
+- [6710422031 นายนันทวัฒน์ ทศรฐ](https://github.com/DeepVader)
